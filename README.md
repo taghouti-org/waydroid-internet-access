@@ -126,6 +126,3 @@ In `waydroid-net.sh` you’ll find (edit to suit):
 - Provides clear, minimal firewall instructions for both nftables and iptables setups.
 
 **Enjoy seamless Android and DNS coexistence!**
----
-
-First published as a [gist](https://gist.github.com/taghouttarek/2573927505ac4f3feb1ed71d7dff3c4c).
